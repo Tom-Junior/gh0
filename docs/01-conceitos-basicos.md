@@ -4,6 +4,14 @@
 
 ## 📋 Objetivos de Aprendizagem
 
+-> Compreender a filosofia do controle de versão distribuído e sua importância em projetos de IA.
+
+-> Diferenciar com precisão as responsabilidades do Git (ferramenta local) e do GitHub (plataforma remota).
+
+-> Instalar, configurar sua identidade e navegar pelos estados fundamentais do Git.
+
+-> Executar o fluxo básico de preservação de histórico através de repositórios e commits.
+
 <!-- Liste aqui os objetivos de aprendizagem deste capítulo -->
 <!-- Exemplo: "Ao final deste capítulo, você será capaz de..." -->
 
